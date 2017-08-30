@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-二叉搜索树
+A JavaScript Binary Search Tree implementation.
